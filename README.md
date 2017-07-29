@@ -6,7 +6,7 @@ DbMigrator decides what to execute.
 
 ### Installation
 
-Copy DbMigrator.cs into your project.
+Copy [DbMigrator.cs](https://raw.githubusercontent.com/rwhitmire/DbMigrator/master/DbMigrator/DbMigrator.cs) into your project.
 
 ### Adding Migrations
 
